@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+Kf7d9G+wPGpuy2Ax9nDXVzSP63gKy9Q6laDL7Gx/bCCGHKOcxzsIQ6hb9p4gfywHebn/L6lu426viW1oljMg==",
+  "success": true,
+  "projectFilePath": "E:\\WORK\\MY Docs\\Interviews\\Promact\\Practical task\\Final\\DotNetDockerAppSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
